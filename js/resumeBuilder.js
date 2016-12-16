@@ -15,9 +15,7 @@ var bio = {
  		"location" : "Washington, DC"
  	},
  	"welcomeMessage" : "Welcome to my first profile.",
- 	"skills" : skills /*[
- 		"programming", "bilingual", "organization", "strong work ethic", "time management"
- 		]*/,
+ 	"skills" : skills, 
  	"biopic" : "images/bella.jpg",
  	display : function() {
 
